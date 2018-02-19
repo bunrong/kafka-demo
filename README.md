@@ -23,3 +23,5 @@
 ![Image of Kafka](https://github.com/bunrong/kafka-demo/blob/master/Slide21.JPG)
 ![Image of Kafka](https://github.com/bunrong/kafka-demo/blob/master/Slide22.JPG)
 ![Image of Kafka](https://github.com/bunrong/kafka-demo/blob/master/Slide23.JPG)
+![Image of Kafka](https://github.com/bunrong/kafka-demo/blob/master/Slide24.JPG)
+![Image of Kafka](https://github.com/bunrong/kafka-demo/blob/master/Slide25.JPG)
